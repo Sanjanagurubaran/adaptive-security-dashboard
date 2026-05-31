@@ -1,70 +1,125 @@
-# Getting Started with Create React App
+<<<<<<< HEAD
+# 🛡️ Adaptive Security Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An AI-powered Adaptive Security Analytics Dashboard that analyzes blockchain transactions, calculates risk scores using machine learning, and visualizes security insights in real-time.
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+* Real-time Risk Score Monitoring
+* Confidence Score Analysis
+* Security State Detection
+* Transaction Monitoring
+* Interactive Analytics Dashboard
+* Risk Trend Visualization
+* Security Report Generation
+* AI-Based Anomaly Detection
 
-### `npm start`
+## 🏗️ Architecture
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Frontend (React Dashboard)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+↓
 
-### `npm test`
+Backend (Node.js + Express)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+↓
 
-### `npm run build`
+AI Microservice (FastAPI)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+↓
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Risk Prediction Engine
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Tech Stack
 
-### `npm run eject`
+### Frontend
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* React.js
+* React Router DOM
+* Axios
+* Recharts
+* CSS3
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Backend
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* Node.js
+* Express.js
+* Axios
+* CORS
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### AI Service
 
-## Learn More
+* Python
+* FastAPI
+* Uvicorn
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📂 Project Structure
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```text
+adaptive-security-dashboard/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── styles/
+├── package.json
+├── package-lock.json
+└── README.md
+```
 
-### Code Splitting
+## ⚙️ Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm install
+npm start
+```
 
-### Analyzing the Bundle Size
+Application runs at:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```text
+http://localhost:3000
+```
 
-### Making a Progressive Web App
+## 📊 Dashboard Modules
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Dashboard
 
-### Advanced Configuration
+* Risk Score Monitoring
+* Confidence Tracking
+* Transaction Overview
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Analytics
 
-### Deployment
+* Risk Trend Analysis
+* Security Insights
+* Performance Metrics
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Reports
 
-### `npm run build` fails to minify
+* Downloadable Security Reports
+* Historical Analysis
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🤖 AI Risk Assessment
+
+The dashboard integrates with an AI microservice that:
+
+* Analyzes transaction behavior
+* Detects anomalies
+* Calculates risk scores
+* Generates confidence metrics
+
+## 🎯 Future Enhancements
+
+* Blockchain Smart Contract Integration
+* Real-Time Alerts
+* Wallet Reputation Analysis
+* Multi-Chain Support
+* Advanced Threat Intelligence
+
+## 👨‍💻 Developed By
+
+Adaptive Security Project Team
+
+AI-Powered Blockchain Security Monitoring System
+
+>>>>>>> 9c3f4e8cbc823ad16c9919839cda486e7547ea64
