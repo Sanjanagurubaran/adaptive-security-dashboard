@@ -1,6 +1,10 @@
 
 # 🛡️ Adaptive Security Dashboard
 
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/ce55fe74-c671-448f-821e-c0db6d1e3bc2" /> <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/41d4ca21-ee33-47fd-a958-4e91b28bce15" /> 
+
+
+
 An AI-powered Adaptive Security Analytics Dashboard that analyzes blockchain transactions, calculates risk scores using machine learning, and visualizes security insights in real-time.
 
 ## 🚀 Features
