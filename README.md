@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛡️ Adaptive Security Dashboard
 
 An AI-powered Adaptive Security Analytics Dashboard that analyzes blockchain transactions, calculates risk scores using machine learning, and visualizes security insights in real-time.
@@ -121,5 +121,3 @@ The dashboard integrates with an AI microservice that:
 Adaptive Security Project Team
 
 AI-Powered Blockchain Security Monitoring System
-
->>>>>>> 9c3f4e8cbc823ad16c9919839cda486e7547ea64
